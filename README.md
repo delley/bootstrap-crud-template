@@ -1,2 +1,2 @@
 # Bootstrap CRUD Template
-Simple crud template with bootstrap 3
+Simple CRUD template using Bootstrap 3
